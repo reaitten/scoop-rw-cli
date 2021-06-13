@@ -1,9 +1,13 @@
 # scoop-rw-cli
-ver. 0.2.35
 
-use [this](https://gist.github.com/reaitten/2f525f6d6af8514dba33bb54d7a490de/raw/78898fc484dbeb819bea614dbd367336f3397b80/railway.json) github gist to download [railway/cli](https://github.com/railwayapp/cli) on your windows machine!
+Latest Version: 0.2.35
+
+use these commands to install [railway/cli](https://github.com/railwayapp/cli) on your windows machine!
 
 ```
+# adds this repo to your local machine
 scoop bucket add railway-cli https://github.com/reaitten/scoop-rw-cli
+# install railway-cli
 scoop install railway-cli
 ```
+check if railway-cli is installed properly via ``railway version``.
