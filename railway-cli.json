@@ -1,6 +1,6 @@
 {
     "version":  "0.2.35",
-    "license":  "",
+    "license":  "MIT",
     "extract_dir":  "railway_0.2.35_windows_amd64",
     "url":  "https://github.com/reaitten/scoop-rw-cli/releases/download/v0.2.35/railway_0.2.35_windows_amd64.zip",
     "depends":  "",
